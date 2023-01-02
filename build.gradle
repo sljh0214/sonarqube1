@@ -1,7 +1,7 @@
 import groovy.json.JsonOutput
 
 import static org.gradle.api.JavaVersion.VERSION_17
-
+fail
 plugins {
   // Ordered alphabetically
   id 'com.github.hierynomus.license' version '0.16.1'
